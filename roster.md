@@ -2,4 +2,4 @@
 2. Add your name / github repo
 3. Make a pull request
 
-- [Charlie Roberts](https://charlie-roberts.com)
+- [Charlie Roberts](https://github.com/charlieroberts)
