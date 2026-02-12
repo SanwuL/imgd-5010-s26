@@ -3,5 +3,6 @@
 3. Make a pull request
 
 - [Charlie Roberts](https://github.com/charlieroberts)
+- [Todd Stewart](https://github.com/GitAlongLittleCodies)
 - [Caleb Prouty](https://github.com/proutycaleb)
 - [REPL Lab](https://repl-wpi.github.io)
