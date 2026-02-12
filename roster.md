@@ -7,3 +7,4 @@
 - [Todd Stewart](https://github.com/GitAlongLittleCodies)
 - [Caleb Prouty](https://github.com/proutycaleb)
 - [REPL Lab](https://repl-wpi.github.io)
+- [Adryen Jean](https://github.com/UrsaMajor24/CrtvCd_AsgnNo01_Binary) 
